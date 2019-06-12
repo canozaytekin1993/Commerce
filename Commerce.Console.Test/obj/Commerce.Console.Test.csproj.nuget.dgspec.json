@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj",
+        "projectName": "Commerce.Console.Test",
+        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview5.19224.8, )",
+              "autoReferenced": true
+            },
+            "System.Net.Http.Formatting.Extension": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": [
+            "Microsoft.NETCore.App"
+          ]
+        }
+      }
+    }
+  }
+}

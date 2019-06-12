@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Commerce.Extensions.deps.json
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Commerce.Extensions.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Commerce.Extensions.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\System.IO.Pipelines.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Extensions\obj\Debug\netcoreapp3.0\Commerce.Extensions.pdb

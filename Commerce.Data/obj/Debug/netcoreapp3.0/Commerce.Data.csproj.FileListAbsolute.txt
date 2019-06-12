@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\bin\Debug\netcoreapp3.0\Commerce.Data.deps.json
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\bin\Debug\netcoreapp3.0\Commerce.Data.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\bin\Debug\netcoreapp3.0\Commerce.Data.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\bin\Debug\netcoreapp3.0\Commerce.Domain.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\bin\Debug\netcoreapp3.0\Commerce.Domain.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Data\obj\Debug\netcoreapp3.0\Commerce.Data.pdb

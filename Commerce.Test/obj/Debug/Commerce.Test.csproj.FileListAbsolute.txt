@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Commerce.Test.exe.config
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Commerce.Test.exe
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Commerce.Test.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.exe.config
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.exe
+C:\Users\lenovo\source\repos\Commerce\Commerce.Test\obj\Debug\Commerce.Test.pdb

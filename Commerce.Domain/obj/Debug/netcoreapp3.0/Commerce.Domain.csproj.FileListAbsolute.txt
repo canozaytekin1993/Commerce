@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Commerce.Domain.deps.json
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Commerce.Domain.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Commerce.Domain.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Domain\obj\Debug\netcoreapp3.0\Commerce.Domain.pdb

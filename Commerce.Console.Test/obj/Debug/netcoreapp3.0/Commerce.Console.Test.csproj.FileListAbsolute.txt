@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Console.Test\bin\Debug\netcoreapp3.0\Commerce.Console.Test.exe
+C:\Users\lenovo\source\repos\Commerce\Commerce.Console.Test\obj\Debug\netcoreapp3.0\Commerce.Console.Test.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Console.Test\obj\Debug\netcoreapp3.0\Commerce.Console.Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Console.Test\obj\Debug\netcoreapp3.0\Commerce.Console.Test.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Console.Test\obj\Debug\netcoreapp3.0\Commerce.Console.Test.AssemblyInfo.cs

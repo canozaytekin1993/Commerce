@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Commerce.Contracts\Commerce.Contracts.csproj" />
+    <ProjectReference Include="..\Commerce.Data\Commerce.Data.csproj" />
+    <ProjectReference Include="..\Commerce.Extensions\Commerce.Extensions.csproj" />
+  </ItemGroup>
+
+</Project>

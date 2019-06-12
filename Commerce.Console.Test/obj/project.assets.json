@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Microsoft.NETCore.Platforms/3.0.0-preview5.19224.8": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "System.Net.Http.Formatting.Extension/5.2.3": {
+        "type": "package",
+        "compile": {
+          "lib/System.Net.Http.Extensions.dll": {},
+          "lib/System.Net.Http.Formatting.dll": {},
+          "lib/System.Net.Http.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/System.Net.Http.Extensions.dll": {},
+          "lib/System.Net.Http.Formatting.dll": {},
+          "lib/System.Net.Http.Primitives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETCore.Platforms/3.0.0-preview5.19224.8": {
+      "sha512": "X5F3KOwqNEUdwlySt4RwXs0zEn/PktbhGX2aNcI4zUYhmky1eNI5hAywOImYcarvEMu+gTAT6IHyHejM9T8sEA==",
+      "type": "package",
+      "path": "microsoft.netcore.platforms/3.0.0-preview5.19224.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.3.0.0-preview5.19224.8.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
+        "runtime.json",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Net.Http.Formatting.Extension/5.2.3": {
+      "sha512": "BlYwj3Mbgc2i+NqtBZ+bea3LiN9WuGpE8PCylBvhxV0wBs0XTkXJmDuzkNnUyPhDBqKMBwDK0ZCnwJ8LpQ0aEg==",
+      "type": "package",
+      "path": "system.net.http.formatting.extension/5.2.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/System.Net.Http.Extensions.dll",
+        "lib/System.Net.Http.Formatting.dll",
+        "lib/System.Net.Http.Primitives.dll",
+        "system.net.http.formatting.extension.5.2.3.nupkg.sha512",
+        "system.net.http.formatting.extension.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Microsoft.NETCore.Platforms >= 3.0.0-preview5.19224.8",
+      "System.Net.Http.Formatting.Extension >= 5.2.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj",
+      "projectName": "Commerce.Console.Test",
+      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\Commerce.Console.Test.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Commerce\\Commerce.Console.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.0.0-preview5.19224.8, )",
+            "autoReferenced": true
+          },
+          "System.Net.Http.Formatting.Extension": {
+            "target": "Package",
+            "version": "[5.2.3, )"
+          }
+        },
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": [
+          "Microsoft.NETCore.App"
+        ]
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http.Formatting.Extension 5.2.3' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Net.Http.Formatting.Extension",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}

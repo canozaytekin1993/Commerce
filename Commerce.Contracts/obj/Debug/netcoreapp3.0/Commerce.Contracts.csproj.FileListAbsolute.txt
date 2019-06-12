@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Commerce.Contracts.deps.json
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Commerce.Contracts.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Commerce.Contracts.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Commerce.Domain.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Commerce.Domain.pdb
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.xml
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.dll
+C:\Users\lenovo\source\repos\Commerce\Commerce.Contracts\obj\Debug\netcoreapp3.0\Commerce.Contracts.pdb
